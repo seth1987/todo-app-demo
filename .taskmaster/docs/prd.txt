@@ -1,0 +1,40 @@
+# Todo App - Product Requirements Document
+
+## Project Overview
+A simple yet elegant todo application that allows users to create, manage, and organize their tasks efficiently.
+
+## Core Features
+
+### 1. Task Management
+- Create new tasks with title and description
+- Mark tasks as complete/incomplete
+- Delete tasks
+- Edit existing tasks
+
+### 2. Data Persistence
+- SQLite database for storing tasks
+- Auto-save functionality
+- Data integrity checks
+
+### 3. User Interface
+- Clean, responsive web interface
+- Real-time updates
+- Keyboard shortcuts for power users
+- Mobile-friendly design
+
+### 4. Categories & Organization
+- Categorize tasks by project or type
+- Filter tasks by status (all, active, completed)
+- Sort tasks by date, priority, or alphabetically
+
+### 5. API Design
+- RESTful API endpoints
+- CRUD operations for tasks
+- Input validation
+- Error handling
+
+## Technical Requirements
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js with Express
+- Database: SQLite
+- Version Control: Git
